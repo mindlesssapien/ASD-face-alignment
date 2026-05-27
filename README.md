@@ -30,8 +30,6 @@ asd-alignment-project/
 |   |       |-- Autistic/
 |       |-- Non_Autistic/
 |
-|-- saved_models/               # Destination for saving model weights
-|   |-- .gitkeep
 |
 |-- alignment_test.ipynb        # Jupyter notebook for visual verification of MTCNN alignment
 |-- main.py                     # Main training and evaluation script
